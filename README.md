@@ -1,2 +1,3 @@
-# teesma-dev.github.io
-My iOS Engineer Portfolio
+Hi, I'm Teesma 👋
+iOS Engineer specializing in Swift, SwiftUI and UIKit.
+Portfolio: https://teesma-dev.github.io/
